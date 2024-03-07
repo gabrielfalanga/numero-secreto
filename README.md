@@ -1,4 +1,4 @@
-<h1>Jogo do Número Secreto 🎮</h1>
+<h1 align="center">🎮 Jogo do Número Secreto 🎮 </h1>
 
 <h2>📊 Sobre</h2>
 <p>Jogo de adivinhação criado durante o curso de Lógica de Programação com JavaScript da Alura.</p>
